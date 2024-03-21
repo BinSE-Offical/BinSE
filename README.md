@@ -6,4 +6,4 @@ The repository is structured in the following way:
   - Preprocessing: BinSE converts each binary function into a normalized CFG to represent its meaningful semantics to diminish the discrepancies in instructions caused by version change.
   - CrossVersionFunctionSearch: BinSE searches for the target function, which corresponds to the query function across different versions.
 
-2. Dataset of BinSE
+2. Datasets of BinSE
